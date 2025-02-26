@@ -1,0 +1,10 @@
+Aprendizado no Copilot Studio
+Neste capítulo, aprendi o que é o Copilot Studio, suas vantagens e como utilizá-lo. Também explorei a criação de agentes personalizados por meio de um exemplo prático, onde foi demonstrado, de forma clara, como criar um agente de viagens.
+Durante o aprendizado, segui o instrutor passo a passo para desenvolver meus conhecimentos com prática. Aprendi como testar o agente, iniciar perguntas diretas para avaliação e criar agentes em branco utilizando bases de dados com IA. Além disso, compreendi onde, quando e como inserir os prompts para garantir que o agente se comporte de maneira clara e atenda às necessidades para as quais foi criado.
+Criação do Agente de Viagem
+Criei um agente de viagem chamado Uiliam Viagens, que se comunica por prompts sob o nome Uii Viagens. A configuração ficou da seguinte forma:
+•	Descrição: Esse agente verifica vistos de brasileiros para viagens ao exterior.
+•	Instruções: Você é um especialista em viagens ao exterior saindo do Brasil. Deve responder de forma educada e profissional, como um especialista. A empresa que você representa chama-se Uiliam Viagens e seu nome é Viagens do Uill.
+Meu objetivo é seguir desenvolvendo esse projeto com base nos conhecimentos técnicos adquiridos nas aulas práticas.
+Acesse o projeto no Copilot Studio pelo seguinte link: Copilot Studio - Uiliam Viagens.
+
